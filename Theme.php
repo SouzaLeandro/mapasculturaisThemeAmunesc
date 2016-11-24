@@ -1,5 +1,5 @@
 <?php
-namespace AmunescCultural;
+namespace mapasculturaisThemeAmunesc;
 use MapasCulturais\Themes\BaseV1;
 use MapasCulturais\App;
 
